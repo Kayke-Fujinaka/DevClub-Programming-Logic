@@ -1,0 +1,35 @@
+As variáveis na programação servem para guardar valores, mas necessita de um endereço. Elas não precisam de aspas duplas, pois não são textos.
+
+
+O JavaScript possui três opções para colocar um valor na variável, sendo: o var, o let e o const.
+O var não é recomendado usar, pois é antigo e tem as outras duas que podem exercem uma função muito melhor;
+O let é quando você vai alterar o valor da variável futuramente;
+O const é quando você vai manter o valor da variável do jeito que escreveu.
+
+
+Da para ver como a variável está utilizando o console.log(coloca ela aqui).
+Para alterar o valor de uma variável (Apenas var e let) é só colocar: o nome da váriavel = valor
+
+É permitido:
+
+
+- Iniciar com $ ou _
+- Colocar acento
+- Iniciar com letras
+- Letras maiúsculas e minúsculas
+
+
+Não pode:
+
+
+- Começar com número
+- Colocar espaço
+
+
+Ideal:
+
+
+- Camel Case (Ele funciona como uma corcunda de um camelo graosDeArrozNoPrato, pois não pode utilizar o espaço)
+- Snake Case (Ele funciona com os underline graos_de_arroz_no_prato)
+- Sempre em inglês
+- Nomes com sentido

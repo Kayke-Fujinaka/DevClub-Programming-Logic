@@ -1,0 +1,13 @@
+0100101010101
+
+No JavaScript quando se fala de valores Booleanos, nós falamos de True or False.
+
+True 1
+or
+False 0
+
+Quando se escreve:
+console.log(myNumberOne = myNumberTwo) é quando vai atribuir o valor para o primeiro elemento, ou seja, vai armazenar os valores do myNumberTwo.
+
+Quando se escreve:
+console.log(myNumberOne == myNumberTwo) é para perguntar se é igual, ou seja, os dois iguais servem como um sinal de igualdade.

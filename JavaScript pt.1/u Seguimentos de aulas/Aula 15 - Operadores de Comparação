@@ -1,0 +1,12 @@
+= Atribui um valor para a variável
+== Igual/Compara se os valores são iguais, mas não compara o tipo do valor
+=== Totalmente igual/ Ele verifica o tipo do dado, como, por exemplo, texto, número, etc
+
+!= Diferente / Compara só o valor
+!== Totalmente diferente/ Ele verifica o tipo do dado
+
+Os operadores de comparação possuem o sinal de desigualdade, a qual podem ser:
+> -- Maior
+>= -- Maior ou igual
+< -- Menor
+<= -- Menor ou igual

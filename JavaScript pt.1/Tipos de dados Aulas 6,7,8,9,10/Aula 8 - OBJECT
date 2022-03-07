@@ -1,0 +1,12 @@
+Dentro do JS, você tem uma tipo de dado que ajuda na hora de criar várias propriedades sem que necessite colocar um por vez. Isso se chama OBJECT.
+
+
+const luffy = {
+name: "Monkey D. Luffy",
+age: 19,
+sex: "male",
+height: 1.74,
+wanted: 1500000000,
+birthday: "May 5th",
+birthplace: "Foosha Village"
+}

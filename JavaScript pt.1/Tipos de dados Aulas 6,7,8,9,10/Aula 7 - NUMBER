@@ -1,0 +1,5 @@
+
+O NUMBER você pode realizar cálculos e não precisa colocar o ", ' ou `, pois, então seria um STRING.
+
+Lembretes caso aconteça algum erro na hora de executar um cálculo irá aparecer "NaN" e não pode usar a vírgula, então no lugar se utiliza o ponto.
+Por exemplo: const NumberFive = 555.5

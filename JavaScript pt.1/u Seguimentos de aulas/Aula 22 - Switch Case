@@ -1,0 +1,6 @@
+- Switch Case
+
+A condicional switch avalia uma expressão, combinando o valor da expressão para um cláusula case, e executa as instruções  associadas ao case.
+
+Se a condição for correspondida, o programa executa as instruções asssociadas. Se múltiplos casos corresponderem o valor, 
+o primeiro caso que corresponder é selecionado, mesmo se os casos não forem iguais entre si.

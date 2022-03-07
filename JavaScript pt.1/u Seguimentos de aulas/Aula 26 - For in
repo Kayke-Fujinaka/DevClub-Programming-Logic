@@ -1,0 +1,5 @@
+ laço for…of itera os valores das propriedades (neste caso), enquanto o laço for…in itera as propriedades.
+
+ Enquanto o primeiro procura dentro da estrutura pela propriedade [Symbol.iterator] que define como ela deve ser iterada, 
+ o segundo itera pelas propriedades enumeradas do objeto. Os objetos iteráveis por definição no JavaScript já descrevem a propriedade 
+ para que ela exiba os seus valores (ex: Map, Set, Array), mas em qualquer outro tipo de estrutura essa decisão fica por conta do desenvolvedor.

@@ -1,0 +1,16 @@
+Todo arquivo JavaScript termina com o "xxx.js", ou seja, o "ponto Js(.js)"
+
+
+O primeiro passo é baixar a extensão Code Runner que no caso a maioria já deve ter baixado.
+Para executar os códigos, você vai criar o seu código clicar nele ou você abre o terminal e clica no output, depois usar o seguinte comando: Ctrl + Alt + N
+Agora se quiser pausa a execução é só usar: Ctrl + Alt + M
+
+
+Console.log() = serve para ver valores de variáveis e ver o que está acontecendo.
+
+
+Segundo modo para visualizar é no Codepen.
+https://codepen.io
+
+
+Terceiro modo é no próprio navegador. É só clicar no inspecionar e ir na aba de console que executa os código js.

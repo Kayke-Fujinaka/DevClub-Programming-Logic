@@ -1,0 +1,11 @@
+O STRING é um tipo de dado do tipo caracteres alfanuméricos (letras, números e caracteres especiais). 
+
+Ele pode ser utilizado de três formas, mas não tem problema você usar um ou outro:
+
+1° - Aspas duplas
+2° - Aspas simples
+Lembrando que é bom e ideal escrever com um padrão único.
+
+3° - Com Crase (Template string/literals) 
+No terceiro caso você pode quebrar linhas sem que o programa te mande um alerta de erro e você também pode introduzir valores.
+

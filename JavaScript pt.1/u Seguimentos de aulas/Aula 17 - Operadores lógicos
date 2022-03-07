@@ -1,0 +1,13 @@
+&& E (Filho obediente)
+true && true = true
+true && false = false
+false && false = false
+
+|| Ou (Garoto Ixpertinhoooo)
+true || true = true
+true || false = true
+false || false = false
+
+! Negação (Filho do contra / Rebelde)
+!true = false
+!false = true

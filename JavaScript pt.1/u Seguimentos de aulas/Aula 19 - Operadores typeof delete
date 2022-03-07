@@ -1,0 +1,9 @@
+Operadores typeof e delete
+
+TYPEOF - O operador typeof determina o tipo de uma determinada varável.
+
+DELETE - O operador delete exclui uma propriedade de uma variável.´
+
+Eu tive uma dúvida, mas o Lucas Rodrigues me de uma ajuda.
+Eu havia pensando "Não é mais fácil apagar manualmente direto no objeto?", mas NÃO, porque isso seria algo manual 
+e o operador DELETE tem diversas funções, como, por exemplo, clicar em um botão e apagar determinado objeto.

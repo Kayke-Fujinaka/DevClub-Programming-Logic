@@ -1,0 +1,14 @@
+O ARRAY é muito utilizado na programação.
+
+Um array é uma coleção de um ou mais objetos, do mesmo tipo, armazenados 
+em endereços adjacentes de memória. O tamanho do array é o seu número de elementos.
+
+O ARRAY server para guardar informações de modo ordenado, ou seja, para cada linha, uma informação. 
+Um exemplo de array é ao guardar nomes de pessoas presentes em uma aplicação do Enem.
+
+Você pode ter no Array: um número, uma frase, um objeto, etc. 
+
+Ele começa da posição 0 em diante, ou seja, 0, 1, 2, 3, etc
+
+const number = [10, 5, 20, 67]
+

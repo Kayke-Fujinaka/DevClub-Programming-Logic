@@ -1,0 +1,10 @@
+Operadores aritméticos
+
+
+ADIÇÃO (+) É a soma de dois ou mais números;
+SUBTRAÇÃO (-) É quando uma quantidade é retirada da outra;
+MULTIPLICAÇÃO (*) É a soma sucessiva de um número por ele mesmo;
+DIVISÃO (/) É o fracionamento de um número;
+RESTO (%) É o resto de uma divisão;
+Incremento (++ ou --) Ele adiciona mais no número. Exemplo numberTwo++;
+Elevado (** no console) É a multiplicação de fatores iguais. Exemplo console.log(3 ** 5). Isso vai dar 243.

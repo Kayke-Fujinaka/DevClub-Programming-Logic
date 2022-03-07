@@ -1,0 +1,9 @@
+Operadores de atribuição
+
+
+Tem como atribuir um valor para uma variável através de:
+
+
+O (=): let firstNumber = 10, porém tem como utilizar com os operadores aritméticos.
+
++, -, /, *
