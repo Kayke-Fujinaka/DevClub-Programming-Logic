@@ -21,7 +21,7 @@ console.log(students)
 
 const studentss = ['Val', 'Teu', 'Jão', 'Zé', 'Bia', 'Mauro']
 
-const newStudents = studentss.slice(1, 2)
+const newStudents = studentss.slice(2, 4)
 
 console.log(studentss, newStudents)
 
