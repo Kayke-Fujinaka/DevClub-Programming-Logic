@@ -17,7 +17,6 @@ for (let index = 1; index <= 10; index++) {
 }
 
 // ----------------------------------------------------- Exemplo 2
-
 function myExample(numbers) {
 
     if (numbers <= 10) {

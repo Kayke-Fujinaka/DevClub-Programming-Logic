@@ -1,0 +1,9 @@
+-- DOM --
+
+O DOM (Document Object Model) é a representação de dados dos objetos que compõem a estrutura e o conteúdo de um documento na Web, ou seja, 
+uma árvore de elemento do Browser que permite alterar o HTML, CSS e JavaScript para que facilite na criação de nossas aplicações e conteúdos.
+
+Ele facilita manipular um elemento do HTML usando o JavaScript.
+
+O DOM não é uma linguagem de programação, mas sem ela, a linguagem JavaScript não teria nenhum modelo ou 
+noção de páginas da web, documentos HTML, documentos XML e suas partes componentes (por exemplo, elementos).

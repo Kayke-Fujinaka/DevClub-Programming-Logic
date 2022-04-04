@@ -1,0 +1,38 @@
+------- Para Conectar o HTML com o JavaScript -------
+
+
+<script src=""> </script>
+
+
+------- Para Complementar a aula. -------
+
+
+Onde o código JavaScript deve ser colocado em um documento HTML:
+
+no elemento <head> ou <body>? No início ou no final de cada um? Existe alguma diferença de performance ou qualquer outra relacionada a isso?
+
+
+Depende do que o script faz, e do quanto ele faz falta. Todo JavaScript inserido numa página (seja onde for) 
+executa de modo síncrono por padrão*. Isso significa que quando a tag <script> é encontrada o browser não renderiza 
+mais nada enquanto esse script não for carregado e executado.
+
+
+Colocar um <script> no head garante que ele seja executado antes de qualquer elemento ser colocado no body. 
+Isso significa que ele garantidamente estará presente quando a página for "montada", ou seja, qualquer código que 
+precise estar presente na hora de processar o body com certeza já estará pronto para agir. 
+A desvantagem é que o usuário só vai ver uma página em branco até que o script termine de executar.
+
+
+Colocar um <script> no final do body, por outro lado, permite que o conteúdo antes dele já apareça para o usuário sem ter de esperar sua execução. 
+Isso passa a impressão de um site mais rápido, o usuário não precisa esperar cada mínimo detalhe estar pronto antes de ler o conteúdo da página. 
+A desvantagem é que 
+- se o seu script modifica significativamente o conteúdo e/ou sua apresentação e funcionalidade 
+- o usuário verá uma página "estranha" e "mal formatada" antes que o script a "corrija". 
+Da mesma forma, se um script muda o comportamento de um link ou botão, por exemplo, 
+clicar nos mesmos antes do script executar causará um comportamento incorreto.
+
+
+Cabe então a você determinar, caso a caso, onde é o melhor lugar para se colocar o script. Se fizer pouca diferença, 
+a recomendação mais comum é o final do body, pela questão da performance principalmente. 
+Se somente estiver interessado em browsers modernos, entretanto, colocá-lo no head com o atributo defer pode ser ainda melhor.
+
