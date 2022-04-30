@@ -10,9 +10,9 @@ class Person {
     }
 }
 
-const newPerson = new Person ("Kayke, 17")
-const newPerson1 = new Person ("Luiza, 37")
-const newPerson2 = new Person ("Vagner, 72")
+const newPerson = new Person ("Kayke", 17)
+const newPerson1 = new Person ("Luiza", 37)
+const newPerson2 = new Person ("Vagner", 72)
 
 newPerson.talk()
 newPerson1.talk()
